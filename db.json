@@ -1,0 +1,109 @@
+{
+  "seller": [
+    {
+      "name": "Raul",
+      "email": "raul@seller.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+
+  
+  "products": [
+    {
+      "name": "Galaxy Z Flip4",
+      "price": "87550",
+      "category": "mobile",
+      "color": "Perple",
+      "description": "Stand up to the standard",
+      "image": "https://images.samsung.com/uk/smartphones/galaxy-z-flip4/images/galaxy-z-flip4_highlights_kv.jpg",
+      "id": 1
+    },
+    {
+      "name": "Apple Smart Watch",
+      "price": "70000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Smart watch for man and women both",
+      "image": "https://cdn.pixabay.com/photo/2017/07/31/21/59/apple-2561475_1280.jpg",
+      "id": 7
+    },
+    {
+      "name": "iPhone 14",
+      "price": "120000",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "An Apple Product",
+      "image": "https://cdn.pixabay.com/photo/2022/09/25/22/25/iphone-7479303_1280.jpg",
+      "id": 2
+    },
+    {
+      "name": "Canon eos 5d",
+      "price": "35000",
+      "category": "Camera",
+      "color": "Black",
+      "description": "Capture the View",
+      "image": "https://cdn.pixabay.com/photo/2014/10/31/10/01/camera-510531_1280.jpg",
+      "id": 6
+    },
+    {
+      "name": "Mac Air",
+      "price": "250000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241_1280.jpg",
+      "id": 3
+    },
+    
+    {
+      "name": "Mouse",
+      "price": "12000",
+      "category": "Electronic",
+      "color": "White",
+      "description": "Free to use under the Content License",
+      "image": "https://cdn.pixabay.com/photo/2013/08/23/22/57/mouse-175140_1280.jpg",
+      "id": 4
+    },
+    {
+      "name": "Sony Headphone",
+      "price": "45000",
+      "category": "Headphone",
+      "color": "Black",
+      "description": "Free to use under the Content License",
+      "image": "https://cdn.pixabay.com/photo/2020/09/23/20/28/headphones-5596990_1280.jpg",
+      "id": 5
+    },
+    {
+      "name": "Drone",
+      "price": "65000",
+      "category": "Flying Camera",
+      "color": "White",
+      "description": "Remote Control",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/02/07/drone-1866742_1280.jpg",
+      "id": 5
+    }
+    
+  ],
+
+
+
+  "users": [
+    {
+      "name": "Raul",
+      "email": "raul@user.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+
+
+
+  "cart": [
+   
+  ],
+
+
+
+  "orders": []
+}
